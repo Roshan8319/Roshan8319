@@ -18,11 +18,7 @@ I am Roshan Prasad Sahu, I'm from Jashpur Chhattisgarh and pursuing Btech from S
 
 
 I love to explore and learn about new things.
-# 👯 Communities
-* Codex 💻
-* Competitive Lead at Codechef ITER Chapter 📈
-* Campus Envoy at Samsung Prism ITER
-* Campus Ambassador at Coding Ninja 
+
 
 ## ⚡ Technologies
 Talk to me about

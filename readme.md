@@ -2,9 +2,9 @@
 
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Siddhant%20Jaiswal-blue)](https://www.linkedin.com/in/roshan1111) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Siddhant%20Jaiswal-brightgreen)]() 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-siddhantjaiswal363-red)](mailto:roshanprasad447@gmail.com)
-[![Leetcode Badge](https://img.shields.io/badge/LeetCode-Siddhant-yellow)]()
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Roshan%20-blue)](https://www.linkedin.com/in/roshan1111) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Roshan%20-brightgreen)]() 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-roshanprasad447-red)](mailto:roshanprasad447@gmail.com)
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-Roshan-yellow)]()
 
 
 

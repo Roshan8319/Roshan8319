@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Roshan%20-blue)](https://www.linkedin.com/in/roshan1111) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Roshan%20-brightgreen)]() 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-roshanprasad447-red)](mailto:roshanprasad447@gmail.com)
-[![Leetcode Badge](https://img.shields.io/badge/LeetCode-Roshan-yellow)]()
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-Roshan-yellow)](https://leetcode.com/u/Roshan8319/)
 
 
 
